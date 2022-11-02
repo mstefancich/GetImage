@@ -69,7 +69,7 @@ video {
 }
 
 .controls button:nth-child(1) {
-    border: 3px solid #D2002E;
+    border: 2px solid #D2002E;
 }
 
 .controls button:nth-child(1) svg {
